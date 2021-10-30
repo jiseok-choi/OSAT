@@ -408,7 +408,7 @@ public class RequestBodyJsonServlet extends HttpServlet {
 
 <br/><br/>
 
-### HttpServletRequest
+### HttpServletResponse
 
 - 응답 유형
 
